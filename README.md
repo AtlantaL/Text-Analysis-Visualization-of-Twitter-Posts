@@ -1,4 +1,4 @@
-# Text Analysis Visualization of Twitter Posts
+# Text Analysis and Visualization of Twitter Posts
 
 **Authors:** Atlanta Liu, Jenny (So Youn) Kim
 
