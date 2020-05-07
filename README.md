@@ -20,4 +20,17 @@ To see if our findings could be further strengthened via data triangulation, we 
 
 Finally, we plotted a barplot dendrogram to visualize the results of our Latent Dirichlet allocation. LDA is a natural language processing technique that falls into the topic modelling category. This allows us to discover relationships between a large set of words to see if there is a hidden semantic structure behind it (i.e. do the words fall into discrete topics?).
 
+### Dashboards in Report
 
+
+![Physical Activity and Sleep Disorder Tweet Comparison Across Canada](/Dashboards/Map.png)
+
+![Google Trends](/Dashboards/GoogleTrends.png)
+
+![Bigram Dashboard](/Dashboards/Bigrams.png)
+
+![Binary Classification](/Dashboards/BinaryClassify.png)
+
+![Physical Activity LDA](/Dashboards/PhysActLDA.png)
+
+![Sleep Disorder LDA](/Dashboards/SleepLDA.png)
