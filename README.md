@@ -18,7 +18,7 @@ This project is separated into multiple phases. The first phase involved explori
 
 To see if our findings could be further strengthened via data triangulation, we pulled data from other platforms (Google Trends & Reddit). Even though we only had three months of data to work with, we looked to see if there were any temporal relations self-reported tweet counts and relevant search topics in Google. Multiple subreddit posts were mined and used for visual comparison to twitter posts in bigrams. 
 
-Finally, we plotted a barplot dendrogram to visualize the results of our Latent Dirichlet allocation. LDA is a natural language processing technique that falls into the topic modelling category. This allows us to discover relationships between a large set of words to see if there is a hidden semantic structure behind it (i.e. do the words fall into discrete topics?).
+Finally, we created a barplot dendrogram to visualize the results of our Latent Dirichlet allocation. LDA is a natural language processing technique that falls into the topic modelling category. This allows us to discover relationships between a large set of words to see if there is a hidden semantic structure behind it (i.e. do the words fall into discrete topics?).
 
 ### Tableau Dashboards
 
