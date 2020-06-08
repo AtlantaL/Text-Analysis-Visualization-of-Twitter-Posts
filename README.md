@@ -6,7 +6,7 @@
 
 ### What's in this repository?
 
-This is the final project for an advanced visualization course in the health data science program at the University of Calgary, which looks at visual comparisons between physican activity and sleep disorder tweets across Canada. The full report is provided as a pdf, with full resolution images available in the folder.
+This is the final project for an advanced visualization course in the health data science program at the University of Calgary, which looks at visual comparisons between physical activity and sleep disorder tweets across Canada. The full report is provided as a pdf, with full resolution images available in the folder.
 
 ### Definition
 
